@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.127.222.193:8081/repository/freestyle-snapshot/</url>
+	      <url>http://13.127.222.193:8081/repository/maven-snapshots2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
